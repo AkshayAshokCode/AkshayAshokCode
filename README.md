@@ -1,6 +1,6 @@
 ### Hi there, I'm Akshay 👋💻
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AkshayAshok6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=AkshayAshok6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkshayAshokCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=AkshayAshokCode)
 
 ## I'm an Android Developer!!
 
@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AkshayAshok6 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AkshayAshokCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akshay-ashok-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -32,6 +32,6 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][ak]
 
 [ak]: https://www.google.com/search?q=Languages+and+Tools&rlz=1C1CHBF_enIN875IN875&oq=Languages+and+Tools&aqs=chrome..69i57.238j0j7&sourceid=chrome&ie=UTF-8
-[twitter]: https://twitter.com/AkshayAshok6
+[twitter]: https://twitter.com/AkshayAshokCode
 [instagram]: https://instagram.com/akshayy_nambiar
 [linkedin]: https://linkedin.com/in/akshay-ashok-code
