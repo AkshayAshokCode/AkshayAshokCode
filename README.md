@@ -12,7 +12,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💪 Fun fact: I'm also fitness enthusiast
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=radical&hide_border=true" alt="AkshayAshokCode"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
 
 ### Connect with me:
 
