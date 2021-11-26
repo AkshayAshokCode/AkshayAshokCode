@@ -5,7 +5,7 @@
                      
 [![Twitter Follow](https://img.shields.io/twitter/follow/AkshayAshokCode?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=AkshayAshokCode)
 
-## I'm an Android Developer!!
+## I'm an Android Developer[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />][ak]!!
 
 - 🌱 I’m currently working on publishing my projects
 - 👯 I’m looking to connect with other developers
