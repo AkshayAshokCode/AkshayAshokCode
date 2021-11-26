@@ -12,6 +12,10 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💪 Fun fact: I'm also fitness enthusiast
 
+<br />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&" alt="AkshayAshokCode"/></p>
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="AkshayAshokCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,9 +37,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][ak]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][ak]
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][ak]
-<br />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&" alt="AkshayAshokCode"/></p>
 
 [ak]: https://www.google.com/search?q=Languages+and+Tools&rlz=1C1CHBF_enIN875IN875&oq=Languages+and+Tools&aqs=chrome..69i57.238j0j7&sourceid=chrome&ie=UTF-8
 [twitter]: https://twitter.com/AkshayAshokCode
