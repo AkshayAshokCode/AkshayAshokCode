@@ -9,10 +9,10 @@
 
 - 🌱 I’m currently working on maintaining my published projects
 - 📖 I’m also writing a blog on "Challenges faced with youtube API & their solutions in Android"
-- 👯 I’m looking to connect with other developers
+- 🧑‍🤝‍🧑 I’m looking to connect with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💪 Fun fact: I'm also fitness enthusiast
-- ⚽ Checkout my apps on [Google PlayStore](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
+- 💪 I'm also a fitness enthusiast, love playing chess♟️ & football⚽
+- 🎮 Checkout my apps on [Google PlayStore](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
 
@@ -36,7 +36,6 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][ak]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][ak]
 [<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][ak]
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />][ak]
 
 [ak]: https://www.google.com/search?q=Languages+and+Tools&rlz=1C1CHBF_enIN875IN875&oq=Languages+and+Tools&aqs=chrome..69i57.238j0j7&sourceid=chrome&ie=UTF-8
 [twitter]: https://twitter.com/AkshayAshokCode
