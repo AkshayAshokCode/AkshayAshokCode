@@ -7,8 +7,8 @@
 
 ## I'm an Android Developer!! <img align="center" alt="Android" width="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
 
-- 🌱 I’m currently working on publishing my projects
-- 📖 I’m also writing a blog on "Problems faced in using Youtube API in Android & their solutions"
+- 🌱 I’m currently working on maintaining my published projects
+- 📖 I’m also writing a blog on "Challenges faced with youtube API & their solutions in Android"
 - 👯 I’m looking to connect with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 💪 Fun fact: I'm also fitness enthusiast
