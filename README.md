@@ -11,7 +11,7 @@
 - 📖 I’m also writing a blog on "Challenges faced with youtube API & their solutions in Android"
 - 🧑‍🤝‍🧑 I’m looking to connect with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 💪 I'm also a fitness enthusiast, love playing chess♟️ & football⚽ <!---Add chess.com clickable link-->
+- 💪 I'm also a fitness enthusiast, love playing [chess](https://www.chess.com/member/akshayashokcode)♟️ & football⚽
 - 🎮 Checkout my apps on [Google PlayStore](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
@@ -21,7 +21,7 @@
 [<img align="left" alt="AkshayAshokCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akshay-ashok-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-<!---Add medium.com clickable icon-->
+[<img align="left" alt="AkshayAshokCode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -41,3 +41,4 @@
 [twitter]: https://twitter.com/AkshayAshokCode
 [instagram]: https://instagram.com/akshayy_nambiar
 [linkedin]: https://linkedin.com/in/akshay-ashok-code
+[medium]: https://medium.com/@AkshayAshokCode
