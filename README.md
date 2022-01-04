@@ -21,7 +21,8 @@
 [<img align="left" alt="AkshayAshokCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="akshay-ashok-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="AkshayAshokCode | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="AkshayAshokCode | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 <br />
 
 ### 🛠 Languages and Tools:
@@ -43,3 +44,4 @@
 [instagram]: https://instagram.com/akshayy_nambiar
 [linkedin]: https://linkedin.com/in/akshay-ashok-code
 [medium]: https://medium.com/@AkshayAshokCode
+[stackoverflow]: https://stackoverflow.com/users/13432369/akshay-ashok?tab=profile
