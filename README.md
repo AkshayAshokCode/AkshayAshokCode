@@ -1,15 +1,16 @@
 # Hi there, I'm Akshay <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
-<img src="https://komarev.com/ghpvc/?username=AkshayAshokCode&label=Profile%20views&color=0e75b6&style=flat" alt="Profile view count"/>
-<h2>I'm an Android Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" /></h2>
+<img src="https://komarev.com/ghpvc/?username=AkshayAshokCode&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
+
+## I'm an Android Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
 - I’m currently working on maintaining my published projects <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
-- I’m also writing a blog on "Challenges faced with youtube API & their solutions in Android" <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
+- I’m also writing a blog on *"Challenges faced with youtube API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
 - 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
 - I'm also a fitness enthusiast, love playing football & [chess](https://www.chess.com/member/akshayashokcode) <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
 - Checkout my apps on [Google PlayStore](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayAshokCode&theme=gotham&show_icons=true&hide=stars&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
