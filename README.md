@@ -26,18 +26,19 @@
 [<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
 <br />
 
-### 🛠 Languages and Tools:
+### Languages and Tools:
 <p>
 <img align="left" alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
 <img align="left" alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />&nbsp;
 <img align="left" alt="Java" title="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />&nbsp;
-<img align="left" alt="XML" title="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />&nbsp;
-<img align="left" alt="Firebase" title="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />&nbsp;
-<img align="left" alt="SQL" title="SQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />&nbsp;
-<img align="left" alt="MySQL" title="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;
 <img align="left" alt="Git" title="Git" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>&nbsp;
 <img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
+<img align="left" alt="GitLab" title="GitLab" height="50" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/gitlab-icon-rgb.png" />&nbsp;
+<img align="left" alt="Firebase" title="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />&nbsp;
+<img align="left" alt="SQL" title="SQL" width="40" height="40" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/sql.png" />&nbsp;
 <img align="left" alt="Postman" title="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
+<img align="left" alt="XML" title="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />&nbsp;
+<img align="left" alt="MySQL" title="MySQL" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>&nbsp;
 <img align="left" alt="Unity" title="Unity" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />&nbsp;
 </p>
 
