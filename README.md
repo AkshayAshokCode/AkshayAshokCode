@@ -19,11 +19,11 @@
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
-[<img align="left" alt="AkshayAshokCode | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="akshay-ashok-code | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="AkshayAshokCode | Twitter" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/twitter.png"/>][twitter]
+[<img align="left" alt="akshay-ashok-code | LinkedIn" width="26px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
 [<img align="left" alt="AkshayAshokCode | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/stackoverflow.png" />][stackoverflow]
 <br />
 
 ### Languages and Tools:
