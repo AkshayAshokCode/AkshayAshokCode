@@ -8,7 +8,7 @@
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
 - 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
 - I'm also a fitness enthusiast, love playing football & [chess](https://www.chess.com/member/akshayashokcode) <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
-- Checkout my apps on [Google PlayStore](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
+- Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
