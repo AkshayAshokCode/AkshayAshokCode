@@ -14,8 +14,11 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-
 [![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+
+### Spotify Playing: <img align="center" alt="Headphone" width="60" src="https://media.giphy.com/media/UQCLbOb4H7KNxIDalG/giphy.gif" />
+[![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
@@ -24,6 +27,7 @@
 [<img align="left" alt="akshayy_nambiar | Instagram" width="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/instagram.png" />][instagram]
 [<img align="left" alt="AkshayAshokCode | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="AkshayAshokCode | Medium" height="22px" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/stackoverflow.png" />][stackoverflow]
+<br />
 <br />
 
 ### Languages and Tools:
@@ -46,3 +50,4 @@
 [linkedin]: https://linkedin.com/in/akshay-ashok-code
 [medium]: https://medium.com/@AkshayAshokCode
 [stackoverflow]: https://stackoverflow.com/users/13432369/akshay-ashok?tab=profile
+[spotify]: https://open.spotify.com/user/dd7o8yr5pft0b4qvntfk8o1zu
