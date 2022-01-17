@@ -10,12 +10,12 @@
 - I'm also a fitness enthusiast, love playing football & [chess](https://www.chess.com/member/akshayashokcode) <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
 - Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
 
