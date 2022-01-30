@@ -3,7 +3,7 @@
 
 ## I'm an Android Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- I’m currently working on maintaining my published projects <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
+- I’m currently working on maintaining my published projects & exploring Flutter<img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
 - I’m also writing a blog on *"Challenges faced with youtube API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
 - 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
@@ -33,15 +33,16 @@
 ### Languages and Tools:
 <p>
 <img align="left" alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
+  <img align="left" alt="Flutter" title="Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />&nbsp;
 <img align="left" alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />&nbsp;
-<img align="left" alt="Java" title="Java" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />&nbsp;
-<img align="left" alt="Git" title="Git" width="45" height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg"/>&nbsp;
+<img align="left" alt="Java" title="Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />&nbsp;
+<img align="left" alt="Dart" title="Dart" height="40" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />&nbsp;
+<img align="left" alt="Git" title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>&nbsp;
 <img align="left" alt="GitHub" title="GitHub" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />&nbsp;
 <img align="left" alt="GitLab" title="GitLab" width="50" height="50" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/gitlab-icon-rgb.png" />&nbsp;
 <img align="left" alt="Firebase" title="Firebase" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />&nbsp;
 <img align="left" alt="SQL" title="SQL" width="40" height="40" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/sql.png" />&nbsp;
 <img align="left" alt="Postman" title="Postman" width="40" height="40" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />&nbsp;
-<img align="left" alt="XML" title="XML" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" />&nbsp;
 <img align="left" alt="Unity" title="Unity" width="40" height="40" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/unity.png" />&nbsp;
 </p>
 
