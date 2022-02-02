@@ -3,7 +3,7 @@
 
 ## I'm an Android Developer<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif"/>
 
-- I’m currently working on maintaining my published projects & exploring Flutter<img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
+- I’m currently working on maintaining my published projects<img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">& exploring Flutter <img align="center" alt="Flutter" title="Flutter" height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 - I’m also writing a blog on *"Challenges faced with youtube API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
 - 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
