@@ -6,7 +6,7 @@
 - I’m currently working on maintaining my published projects<img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">& exploring Flutter <img  alt="Flutter" title="Flutter" height="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 - I’m also writing a blog on *"Challenges faced with youtube API & their solutions in Android"* <img align="center" src="https://media.giphy.com/media/oQ4OCSlVyI2QCHFAo9/giphy.gif" width="30">
 - I’m looking to connect with other developers <img align="center" src="https://media.giphy.com/media/h4NcajKbIjNMWp2zfM/giphy.gif" width="20">
-- 2022 <img src="https://media.giphy.com/media/dWCu9zDikqi9R4W3VC/giphy.gif" width="50">: Contribute more to Open Source projects
+- 2022 *Goals*<img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">: Contribute more to Open Source projects
 - I'm also a fitness enthusiast, love playing football & [chess](https://www.chess.com/member/akshayashokcode) <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
 - Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
 
@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-### Spotify Playing: <img align="center" alt="Headphone" width="60" src="https://media.giphy.com/media/UQCLbOb4H7KNxIDalG/giphy.gif" />
+### Spotify Playing: <img align="center" alt="Headphone" height="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 [![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
 
 ### Connect with me: <img align="center" alt="Android" width="90" src="https://media.giphy.com/media/X7Oe8SfCbv5GSzDGFl/giphy.gif" />
