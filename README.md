@@ -3,7 +3,7 @@
 
 ### Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">
 - **iOS Development** <img align="center"  alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />
-- **Flutter** <img alt="Flutter" title="Flutter" width="20" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+- **Flutter** <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 - **Kotlin Multiplatform Mobile (KMM)** <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 - **Backend with Kotlin (Ktor)** <img  align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 
