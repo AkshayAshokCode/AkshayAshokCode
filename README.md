@@ -11,6 +11,8 @@
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
+- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set.
+
 
 ### Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
 1. **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid) (Android):** Implementation of all YouTube API features. I'll also be writing a blog detailing the "Challenges faced with YouTube API & their solutions in Android."<img align="center" src="https://media.giphy.com/media/UHmBYZCeSd9HSNdE3S/giphy.gif" width="30">
