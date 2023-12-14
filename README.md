@@ -6,6 +6,7 @@
 - **Flutter** <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 - **Kotlin Multiplatform Mobile (KMM)** <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 - **Backend with Kotlin (Ktor)** <img  align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+- **Compose Multiplatform for KMM** <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" />
 
 ### Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
