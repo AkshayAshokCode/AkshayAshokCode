@@ -12,7 +12,7 @@
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
-- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set.
+- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/8)
 
 
 ### Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
