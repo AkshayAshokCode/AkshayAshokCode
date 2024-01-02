@@ -13,7 +13,7 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/8)
-  * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/) <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
+  * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/) <img align="center" height="20" src="https://progress-bar.dev/35" alt="Progress bar" />
   * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
 
 
