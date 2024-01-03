@@ -1,36 +1,35 @@
 # Hi there, I'm Akshay <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 <img src="https://komarev.com/ghpvc/?username=AkshayAshokCode&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 
-### Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">
+## Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">
 - **iOS Development** <img align="center"  alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />
 - **Flutter** <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
 - **Kotlin Multiplatform Mobile (KMM)** <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 - **Backend with Kotlin (Ktor)** <img  align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
 - **Compose Multiplatform for KMM** <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" />
 
-### Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
+## Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/8)
-  * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/) <img align="center" height="20" src="https://progress-bar.dev/35" alt="Progress bar" />
-  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
+  * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/)  &nbsp; <img align="center" height="20" src="https://progress-bar.dev/35" alt="Progress bar" />
+  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
 
+## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
+<a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
+<a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=false" alt="AkshayAshokCode"/></a> &nbsp; &nbsp;
 
-### Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
+ <p href="Top Langs"><img align="center" src="https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=false&bg_color=0d1117&text_color=fefefe" /></p>
+ 
+## Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
 1. **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid) (Android):** Implementation of all YouTube API features. I'll also be writing a blog detailing the "Challenges faced with YouTube API & their solutions in Android."<img align="center" src="https://media.giphy.com/media/UHmBYZCeSd9HSNdE3S/giphy.gif" width="30">
 2. **[All-Footy](https://github.com/AkshayAshokCode/All-Footy) (Android):** Providing live match stats and top league table standings & stats for football enthusiasts.<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnF2MTZncHBhbXd5cnJjam0wamlvNjk0azk3NnhnaThjdTdia2t2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lm5hxmmI6ucOQGfjKj/giphy.gif" width="30">
 3. **[KoreanTranslator](https://github.com/AkshayAshokCode/KoreanTranslator) (Flutter):** A BTS-themed Korean translator.<img align="center" src="https://media.giphy.com/media/zoJ7IURksWElzcQaln/giphy.gif" width="30">
 
 - I'm also a fitness enthusiast, love playing football & [chess](https://www.chess.com/member/akshayashokcode) <img align="center" src="https://media.giphy.com/media/TaNwx4eG9ol8fMqIOs/giphy.gif" width="10">
 - Checkout my apps on [Google Play Store](https://play.google.com/store/apps/developer?id=Akshay+Ashok) <img align="center" src="https://media.giphy.com/media/c5LfZJAwLQxXNKsJ9J/giphy.gif" width="30">
-
-[![GitHub stats](https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe )](https://github.com/anuraghazra/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=true" alt="AkshayAshokCode"/></p>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
-[![Top Langs](https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=true&bg_color=0d1117&text_color=fefefe)](https://github.com/anuraghazra/github-readme-stats)
-<br />
 
 ### Spotify Playing: <img align="center" alt="Headphone" width="60" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 [![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
