@@ -18,7 +18,7 @@
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
-<a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=false" alt="AkshayAshokCode"/></a> &nbsp; &nbsp;
+&nbsp; <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=false" alt="AkshayAshokCode"/></a>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
  <p href="Top Langs"><img align="center" src="https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=false&bg_color=0d1117&text_color=fefefe" /></p>
