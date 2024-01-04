@@ -1,12 +1,16 @@
 # Hi there, I'm Akshay <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 <img src="https://komarev.com/ghpvc/?username=AkshayAshokCode&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 
-## Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30">
-- **iOS Development** <img align="center"  alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />
-- **Flutter** <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
-- **Kotlin Multiplatform Mobile (KMM)** <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-- **Backend with Kotlin (Ktor)** <img  align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-- **Compose Multiplatform for KMM** <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" />
+<h3 align="left"> Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30"></h3>
+<p align="left">
+<a><ul>
+ <li><strong>iOS Development</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" /></li>
+<li><strong>Flutter</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></li>
+<li><strong>Kotlin Multiplatform Mobile (KMM)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
+<li><strong>Backend with Kotlin (Ktor)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
+<li><strong>Compose Multiplatform for KMM</strong> <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" /></li>
+</ul></a> <a align="right" href="Top Langs"><img align="center" src="https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=false&bg_color=0d1117&text_color=fefefe" /></a>
+</p>
 
 ## Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
@@ -17,11 +21,12 @@
   * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
-<a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
-&nbsp; <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=false" alt="AkshayAshokCode"/></a>
+<div align="center"> <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
+&nbsp; <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshayAshokCode&theme=github-dark&hide_border=false" alt="AkshayAshokCode"/></a> </div>
+&nbsp;
+
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkshayAshokCode&theme=github&hide_border=true&bg_color=0d1117&area_color=1f6fea&line=38d252&point=1f6fea&color=fefefe)
- <p href="Top Langs"><img align="center" src="https://github-readme-stats-akshayashokcode.vercel.app//api/top-langs/?username=AkshayAshokCode&layout=compact&theme=gotham&langs_count=10&hide=html&hide_border=true&hide_title=false&bg_color=0d1117&text_color=fefefe" /></p>
  
 ## Projects I'll Be Targeting to Complete & Publish: <img src="https://media.giphy.com/media/GlHV2O0IpxAsRjVsNb/giphy.gif" width="30">
 1. **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid) (Android):** Implementation of all YouTube API features. I'll also be writing a blog detailing the "Challenges faced with YouTube API & their solutions in Android."<img align="center" src="https://media.giphy.com/media/UHmBYZCeSd9HSNdE3S/giphy.gif" width="30">
