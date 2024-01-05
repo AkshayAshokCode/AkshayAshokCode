@@ -1,7 +1,7 @@
 # Hi there, I'm Akshay <img align="center" src="https://media.giphy.com/media/yxicUANit7fTdEdZgr/giphy.gif" width="35">
 <img src="https://komarev.com/ghpvc/?username=AkshayAshokCode&label=Profile%20views&color=1f6fea&style=plastic" alt="Profile view count"/>
 
-<h3 align="left"> Technologies I'm Focusing on in the Coming Months: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30"></h3>
+<h3 align="left"> Technologies I'm Focusing on: <img align="center" src="https://media.giphy.com/media/UWyolgnwKnr8mfWZOY/giphy.gif" width="30"></h3>
 <p align="left">
 <a><ul>
  <li><strong>iOS Development</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" /></li>
