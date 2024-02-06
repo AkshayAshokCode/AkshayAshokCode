@@ -17,7 +17,7 @@
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/8)
   * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/)  &nbsp; <img align="center" height="20" src="https://progress-bar.dev/45" alt="Progress bar" />
-  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/35" alt="Progress bar" />
+  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/40" alt="Progress bar" />
 
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div align="center"> <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
