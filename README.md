@@ -5,8 +5,8 @@
 <ul>
  <li><strong>iOS Development</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" /></li>
  <li><strong>SwiftUI</strong> <img align="top" alt="SwiftUI" title="SwiftUI" width="20" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/swiftui.png" /></li>
+ <li><strong>Flutter</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></li>
  <li><strong>Figma</strong> <img align="top" alt="Figma" title="Figma" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></li>
-<li><strong>Flutter</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></li>
  <li><strong>Node.js and Express.js</strong> <img align="center" alt="Node.js" title="Node.js" width="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></li>
 <li><strong>Kotlin Multiplatform Mobile (KMM)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
 <li><strong>Backend with Kotlin (Ktor)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
