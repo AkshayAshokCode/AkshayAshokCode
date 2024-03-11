@@ -19,7 +19,7 @@
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/9)
   * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/)  &nbsp; <img align="center" height="20" src="https://progress-bar.dev/70" alt="Progress bar" />
-  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/70" alt="Progress bar" />
+  * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/75" alt="Progress bar" />
    * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
     * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
 
