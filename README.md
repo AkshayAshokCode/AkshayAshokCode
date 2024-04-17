@@ -6,8 +6,8 @@
  <li><strong>iOS Development</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" /></li>
  <li><strong>SwiftUI</strong> <img align="top" alt="SwiftUI" title="SwiftUI" width="20" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/swiftui.png" /></li>
  <li><strong>Flutter</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></li>
- <li><strong>Figma</strong> <img align="top" alt="Figma" title="Figma" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></li>
  <li><strong>Node.js and Express.js</strong> <img align="center" alt="Node.js" title="Node.js" width="20" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /></li>
+ <li><strong>Figma</strong> <img align="top" alt="Figma" title="Figma" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></li>
 <li><strong>Kotlin Multiplatform Mobile (KMM)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
 <li><strong>Backend with Kotlin (Ktor)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
 <li><strong>Compose Multiplatform for KMM</strong> <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" /></li>
@@ -20,9 +20,9 @@
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (2/9)
   * [iOS & Swift: The Complete iOS App Development](https://www.udemy.com/share/101WsW3@ZqrYMr32iiM8RcHt33e8WK52KxU5yx5dKipXVcYz0hHYwiNNoRgGB-ZLd6X3HLsEWg==/)  &nbsp; <img align="center" height="20" src="https://progress-bar.dev/80" alt="Progress bar" />
   * [Soft Skills: The 11 Essential Career Soft Skills](https://www.udemy.com/share/101zsU3@sZwv1teN6ilNkqtEC9Etmx3uvhNnuo8UtqbfWfLVxLtwmpl7YJxyfXPG5gVlLszaxA==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/90" alt="Progress bar" />
-   * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
-    * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
-
+  * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
+  * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
+  
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div align="center"> <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
  
