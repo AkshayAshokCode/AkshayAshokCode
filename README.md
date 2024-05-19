@@ -18,7 +18,7 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (4/9)
-- * [Android Lifecycles & Architecture Masterclass](https://www.udemy.com/user/vasiliy-zukanov/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/85" alt="Progress bar" />
+- * [Android Lifecycles & Architecture Masterclass](https://www.udemy.com/user/vasiliy-zukanov/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/80" alt="Progress bar" />
   * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/25" alt="Progress bar" />
   * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
   
