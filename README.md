@@ -17,10 +17,9 @@
 - **Kotlin Mastery:** Expand my skills as a Kotlin developer.
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
-- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (4/9)
-  * [Android Lifecycles & Architecture Masterclass](https://www.udemy.com/user/vasiliy-zukanov/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/85" alt="Progress bar" />
-  * [SOLID Principles of Object Oriented Design and Architecture](https://www.udemy.com/share/101B0k3@QhN7Z7AQR0xMV4rfBa4YC-fo1FO7UjpCtjCyHFEFTjGxVpmvSVwbV3z1L4jbg0vSqQ==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/100" alt="Progress bar" />
-   * [Dependency Injection in Android with Dagger and Hilt](https://www.udemy.com/share/101zkI3@0_187O3WlPeaK6ZD6-ww4cZqoQklNkBMfeD0KdH9wEAjiUDts3Y3htOUXPPzhox8YQ==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/0" alt="Progress bar" />
+- **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (7/14)
+  * [Dependency Injection in Android with Dagger and Hilt](https://www.udemy.com/share/101zkI3@0_187O3WlPeaK6ZD6-ww4cZqoQklNkBMfeD0KdH9wEAjiUDts3Y3htOUXPPzhox8YQ==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/0" alt="Progress bar" />
+  * [Android Architecture Masterclass](https://www.udemy.com/share/101tvi3@6OEskj-1kDBN17TwoCjN0z4pSkIc7hNG2rOB0AzGcQOlCZQp625Ei24qQt_rmIvpBg==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
   * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
   * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
   
