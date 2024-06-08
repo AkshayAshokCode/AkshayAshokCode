@@ -19,7 +19,7 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (7/14)
-  * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/0" alt="Progress bar" />
+  * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
   * [Dependency Injection in Android with Dagger and Hilt](https://www.udemy.com/share/101zkI3@0_187O3WlPeaK6ZD6-ww4cZqoQklNkBMfeD0KdH9wEAjiUDts3Y3htOUXPPzhox8YQ==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/0" alt="Progress bar" />
    * [Android Unit Testing and Test Driven Development](https://www.udemy.com/share/1022t83@zVYgXNd0JhVqHCipfyX6d7MMwQNiz43FC3fiGl4-6Z6YZOF0QJmh6Tt-FTPg8kv-mw==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
   * [Android Architecture Masterclass](https://www.udemy.com/share/101tvi3@6OEskj-1kDBN17TwoCjN0z4pSkIc7hNG2rOB0AzGcQOlCZQp625Ei24qQt_rmIvpBg==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
