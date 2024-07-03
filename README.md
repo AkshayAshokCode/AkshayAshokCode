@@ -19,7 +19,6 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (8/14)
-  * [Dependency Injection in Android with Dagger and Hilt](https://www.udemy.com/share/101zkI3@0_187O3WlPeaK6ZD6-ww4cZqoQklNkBMfeD0KdH9wEAjiUDts3Y3htOUXPPzhox8YQ==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/100" alt="Progress bar" />
   * [Android Unit Testing and Test Driven Development](https://www.udemy.com/share/1022t83@zVYgXNd0JhVqHCipfyX6d7MMwQNiz43FC3fiGl4-6Z6YZOF0QJmh6Tt-FTPg8kv-mw==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/45" alt="Progress bar" />
   * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/8" alt="Progress bar" />
   * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/19" alt="Progress bar" />
