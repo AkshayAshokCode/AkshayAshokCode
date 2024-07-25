@@ -19,7 +19,7 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (8/14)
-  * [Android Unit Testing and Test Driven Development](https://www.udemy.com/share/1022t83@zVYgXNd0JhVqHCipfyX6d7MMwQNiz43FC3fiGl4-6Z6YZOF0QJmh6Tt-FTPg8kv-mw==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/45" alt="Progress bar" />
+  * [Android Unit Testing and Test Driven Development](https://www.udemy.com/share/1022t83@zVYgXNd0JhVqHCipfyX6d7MMwQNiz43FC3fiGl4-6Z6YZOF0QJmh6Tt-FTPg8kv-mw==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/55" alt="Progress bar" />
   * [Kotlin Coroutines for Android](https://www.udemy.com/course/kotlin-coroutines-in-android/?couponCode=LETSLEARNNOWPP) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/75" alt="Progress bar" />
   * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/10" alt="Progress bar" />
   * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/23" alt="Progress bar" />
