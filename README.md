@@ -21,7 +21,7 @@
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (8/14)
   * [Android Unit Testing and Test Driven Development](https://www.udemy.com/share/1022t83@zVYgXNd0JhVqHCipfyX6d7MMwQNiz43FC3fiGl4-6Z6YZOF0QJmh6Tt-FTPg8kv-mw==/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/75" alt="Progress bar" />
   * [Kotlin Coroutines for Android](https://www.udemy.com/course/kotlin-coroutines-in-android/?couponCode=LETSLEARNNOWPP) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/90" alt="Progress bar" />
-  * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/10" alt="Progress bar" />
+  * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/12" alt="Progress bar" />
   * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/23" alt="Progress bar" />
   * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
   * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
