@@ -22,7 +22,7 @@
   * [Kotlin Coroutines for Android](https://www.udemy.com/course/kotlin-coroutines-in-android/?couponCode=LETSLEARNNOWPP) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/90" alt="Progress bar" />
   * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/16" alt="Progress bar" />
   * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/23" alt="Progress bar" />
-  * [High Performance Android Apps by Doug Sillars](https://drive.google.com/file/d/1E0amQ_rrXmXJ7MOomRJrsciDN5VJ88T7/view?usp=drive_link) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/2" alt="Progress bar" />
+  * [High Performance Android Apps by Doug Sillars](https://drive.google.com/file/d/1E0amQ_rrXmXJ7MOomRJrsciDN5VJ88T7/view?usp=drive_link) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/5" alt="Progress bar" />
   * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
   * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
   
