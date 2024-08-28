@@ -19,11 +19,11 @@
 - **Comprehensive Backend Knowledge:** Acquiring a profound understanding of backend development with Kotlin.
 - **App Enhancement:** Addressing issues in my Play Store apps and enhancing their functionality for better user experiences.
 - **Continued Learning:** Completing all the Udemy courses I've enrolled in to further expand my skill set. (8/14)
-  * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/16" alt="Progress bar" />
-  * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/23" alt="Progress bar" />
-  * [High Performance Android Apps by Doug Sillars](https://drive.google.com/file/d/1E0amQ_rrXmXJ7MOomRJrsciDN5VJ88T7/view?usp=drive_link) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/20" alt="Progress bar" />
-  * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/30" alt="Progress bar" />
-  * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.dev/15" alt="Progress bar" />
+  * [Strivers A2Z DSA Course/Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/16" alt="Progress bar" />
+  * [System Design Basics](https://youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX&si=axunI9-38mFZbxZW) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/23" alt="Progress bar" />
+  * [High Performance Android Apps by Doug Sillars](https://drive.google.com/file/d/1E0amQ_rrXmXJ7MOomRJrsciDN5VJ88T7/view?usp=drive_link) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/20" alt="Progress bar" />
+  * [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE&t=1s) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/30" alt="Progress bar" />
+  * [Complete Web & Mobile Designer: UI/UX, Figma](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/) &nbsp;  <img align="center" height="20" src="https://progress-bar.xyz/15" alt="Progress bar" />
   
 ## GitHub Stats: <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25">
 <div align="center"> <a href="https://github.com/AkshayAshokCode/github-readme-stats"><img align="top" src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=38d252&icon_color=1f6fea&text_color=fefefe&border_color=38d252" alt="AkshayAshokCode"/></a>
