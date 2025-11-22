@@ -6,11 +6,10 @@
  <li><strong>Android</strong> <img alt="Flutter" title="Flutter" height="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" /></li>
  <li><strong>iOS Development</strong> <img align="center" alt="iOS" title="iOS" width="20" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" /></li>
  <li><strong>SwiftUI</strong> <img align="top" alt="SwiftUI" title="SwiftUI" width="20" src="https://github.com/AkshayAshokCode/AkshayAshokCode/blob/main/icons/swiftui.png" /></li>
- <li><strong>Flutter</strong> <img alt="Flutter" title="Flutter" height="18" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /></li>
  <li><strong>Figma</strong> <img align="top" alt="Figma" title="Figma" width="20" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" /></li>
 <li><strong>Kotlin Multiplatform Mobile (KMM)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
-<li><strong>Backend with Kotlin (Ktor)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
 <li><strong>Compose Multiplatform for KMM</strong> <img align="center" alt="Kotlin" title="Kotlin" height="25" src="https://github.com/gilbarbara/logos/blob/f133ea921b012052000964e3feb023b57146895b/logos/compose-multiplatform.svg" /></li>
+ <li><strong>Backend with Kotlin (Ktor)</strong> <img align="center" alt="Kotlin" title="Kotlin" height="15" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" /></li>
 </ul> 
 
 ## Personal Development Goals: <img src="https://media.giphy.com/media/rxzIRXC6RxNFRFOkJG/giphy.gif" width="20">
@@ -60,7 +59,6 @@
 <img align="left" alt="iOS" title="iOS" width="35" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRwNm8xMmNndXI1NnFzYWxjNjd4eHM3MjJ0MW5haHlydmJjdHRzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYiGDt4b33UVq/giphy.gif" />&nbsp;
 <img align="left" alt="Android" title="Android" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />&nbsp;
 <img align="left" alt="Kotlin" title="Kotlin" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />&nbsp;
-<img align="left" alt="Flutter" title="Flutter" height="40" width="40" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />&nbsp;
 <img align="left" alt="Java" title="Java" height="40" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" />&nbsp;
 <img align="left" alt="Dart" title="Dart" height="40" width="40" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />&nbsp;
  <img align="left" alt="Git" title="Git" width="45" height="45" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
