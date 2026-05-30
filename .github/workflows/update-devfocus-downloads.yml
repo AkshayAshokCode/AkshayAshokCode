@@ -1,0 +1,46 @@
+name: Update DevFocus Downloads
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'  # Every Monday at 06:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch download count from JetBrains Marketplace
+        id: downloads
+        run: |
+          DOWNLOADS=$(curl -s "https://plugins.jetbrains.com/plugins/list?pluginId=com.github.akshayashokcode.devfocus" \
+            | grep -oP 'downloads="\K[0-9]+' | head -1)
+          echo "count=$DOWNLOADS" >> $GITHUB_OUTPUT
+
+      - name: Update README
+        run: |
+          python3 -c "
+          import re
+          with open('README.md', 'r') as f:
+              content = f.read()
+          count = '${{ steps.downloads.outputs.count }}'
+          pattern = r'<!-- DEVFOCUS_DOWNLOADS_START -->.*?<!-- DEVFOCUS_DOWNLOADS_END -->'
+          replacement = f'<!-- DEVFOCUS_DOWNLOADS_START -->**{count}+** downloads<!-- DEVFOCUS_DOWNLOADS_END -->'
+          content = re.sub(pattern, replacement, content)
+          with open('README.md', 'w') as f:
+              f.write(content)
+          "
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet && echo "No change" || (
+            git add README.md &&
+            git commit -m "Update DevFocus downloads to ${{ steps.downloads.outputs.count }}+" &&
+            git push
+          )
