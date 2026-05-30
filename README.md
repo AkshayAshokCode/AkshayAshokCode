@@ -70,7 +70,7 @@ Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) ♟ · Fit
 
 ---
 
-### Currently Listening To
+### Currently Listening To <img align="center" alt="Headphone" width="40" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 
 [![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
 
