@@ -34,11 +34,11 @@
 
 ## Featured
 
-**[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor.
+**[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
 **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** — Modular Android media SDK. Gallery, camera, and crop workflows with a single fluent API. Available on Maven Central.
 
-**[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose.
+**[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose. Improved Play Store conversion rate from **22% → 30%** through store listing experiments. Highest adoption in the US, India, Mexico, and Brazil.
 
 **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A structured reference for the YouTube API on Android. Covers search, channel info, live chat, live streaming, captions, and OAuth flows — each with example responses.
 
