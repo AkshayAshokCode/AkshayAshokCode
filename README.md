@@ -39,7 +39,7 @@
 
 **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose.
 
-**[NotePad](https://github.com/AkshayAshokCode/NotePad)** — Clean Architecture · Hilt · Compose · Room · Coroutines · Flow. Unit tests and end-to-end instrumented tests included.
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A structured reference for the YouTube API on Android. Covers search, channel info, live chat, live streaming, captions, and OAuth flows — each with example responses.
 
 ---
 
@@ -52,12 +52,6 @@ I'm naturally curious about systems, workflows, and user behavior — especially
 I enjoy solving problems, taking ownership, and continuously improving products through thoughtful details, performance, usability, and real user feedback.
 
 For me, engineering is a constant process of curiosity, experimentation, problem-solving, and growth.
-
----
-
-## Currently Building
-
-Adding a Dashboard to **AndroidSensors** — a real-time overview screen across all active device sensors.
 
 ---
 
