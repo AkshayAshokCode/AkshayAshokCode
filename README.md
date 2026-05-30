@@ -13,8 +13,8 @@
 
 | | | |
 |:--|:--|:--|
-| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **2,500+** installs · **150+** countries · **95%** organic |
-| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | **250+** downloads · **12+** JetBrains IDEs |
+| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **2,700+** installs · **150+** countries · **95%** organic |
+| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | ![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.akshayashokcode.devfocus?style=flat-square&label=downloads) · **12+** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
 
 ---
@@ -22,6 +22,7 @@
 ## Tech
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
