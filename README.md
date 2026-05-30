@@ -1,6 +1,6 @@
 # Akshay Ashok
 
-**Senior Mobile Engineer** — building Android apps, SDKs, and developer tools used across 139 countries.
+**Senior Mobile Engineer** — building Android apps, SDKs, and developer tools used across 150+ countries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-ashok-code)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@AkshayAshokCode)
@@ -13,7 +13,7 @@
 
 | | | |
 |:--|:--|:--|
-| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **2,500+** installs · **139** countries · **95%** organic |
+| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **2,500+** installs · **150+** countries · **95%** organic |
 | **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | **250+** downloads · **12+** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
 
