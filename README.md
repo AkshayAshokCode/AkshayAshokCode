@@ -4,8 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-ashok-code)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@AkshayAshokCode)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AkshayAshokCode)
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AkshayAshokCode)
+[![Google Play](https://img.shields.io/badge/Google%20Play-01875F?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
 
 ---
 
