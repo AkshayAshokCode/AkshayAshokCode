@@ -58,7 +58,7 @@ For me, engineering is a constant process of curiosity, experimentation, problem
 
 ## Beyond Engineering
 
-Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) ♟ · Fitness 🏋
+Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness 💪
 
 ---
 
