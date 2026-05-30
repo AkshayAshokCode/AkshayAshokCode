@@ -1,4 +1,3 @@
-# Akshay Ashok
 
 **Senior Mobile Engineer** — building Android apps, SDKs, and developer tools used across 150+ countries.
 
