@@ -14,7 +14,7 @@
 | | | |
 |:--|:--|:--|
 | **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **2,700+** installs · **150+** countries · **95%** organic |
-| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | ![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.akshayashokcode.devfocus?style=flat-square&label=downloads) · **12+** JetBrains IDEs |
+| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**230+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **12+** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
 
 ---
