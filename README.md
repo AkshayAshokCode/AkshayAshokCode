@@ -1,5 +1,5 @@
 
-**Senior Mobile Engineer** — building Android apps, SDKs, and developer tools used across 150+ countries.
+**Senior Mobile Engineer** — building Android iOS apps, SDKs, and developer tools used across 150+ countries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-ashok-code)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@AkshayAshokCode)
