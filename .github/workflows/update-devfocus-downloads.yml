@@ -21,16 +21,30 @@ jobs:
             | grep -oP 'downloads="\K[0-9]+' | head -1)
           echo "count=$DOWNLOADS" >> $GITHUB_OUTPUT
 
+      - name: Fetch download count from Open VSX
+        id: vscode_downloads
+        run: |
+          COUNT=$(curl -s "https://open-vsx.org/api/akshayashokcode/devfocus" \
+            | python3 -c "import json,sys; print(json.load(sys.stdin)['downloadCount'])")
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+
       - name: Update README
         run: |
           python3 -c "
           import re
           with open('README.md', 'r') as f:
               content = f.read()
+
           count = '${{ steps.downloads.outputs.count }}'
           pattern = r'<!-- DEVFOCUS_DOWNLOADS_START -->.*?<!-- DEVFOCUS_DOWNLOADS_END -->'
           replacement = f'<!-- DEVFOCUS_DOWNLOADS_START -->**{count}+** downloads<!-- DEVFOCUS_DOWNLOADS_END -->'
           content = re.sub(pattern, replacement, content)
+
+          vscode_count = '${{ steps.vscode_downloads.outputs.count }}'
+          vscode_pattern = r'<!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->.*?<!-- VSCODE_DEVFOCUS_DOWNLOADS_END -->'
+          vscode_replacement = f'<!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**{vscode_count}+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END -->'
+          content = re.sub(vscode_pattern, vscode_replacement, content)
+
           with open('README.md', 'w') as f:
               f.write(content)
           "
@@ -41,6 +55,6 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git diff --quiet && echo "No change" || (
             git add README.md &&
-            git commit -m "Update DevFocus downloads to ${{ steps.downloads.outputs.count }}+" &&
+            git commit -m "Update DevFocus downloads to ${{ steps.downloads.outputs.count }}+ (JetBrains) / ${{ steps.vscode_downloads.outputs.count }}+ (VS Code)" &&
             git push
           )
