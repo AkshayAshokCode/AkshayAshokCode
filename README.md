@@ -13,6 +13,7 @@
 | | | |
 |:--|:--|:--|
 | **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **3k+** installs · **150+** countries · **95%** organic |
+| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**586+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · Open VSX |
 | **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**395+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
 
@@ -33,11 +34,13 @@
 
 ## Featured
 
-**[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
+**[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose. Improved Play Store conversion rate from **22% → 30%** through store listing experiments. Highest adoption in the US, India, Mexico, and Brazil.
+
+**[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** — Focus timer and day plan for engineers working with AI — sessions, real breaks, and a defensible end to the day. Runs in VS Code, Cursor, and other VSCode-API editors, distributed via Open VSX.
 
 **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** — Modular Android media SDK. Gallery, camera, and crop workflows with a single fluent API. Available on Maven Central.
 
-**[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose. Improved Play Store conversion rate from **22% → 30%** through store listing experiments. Highest adoption in the US, India, Mexico, and Brazil.
+**[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
 **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A structured reference for the YouTube API on Android. Covers search, channel info, live chat, live streaming, captions, and OAuth flows — each with example responses.
 
