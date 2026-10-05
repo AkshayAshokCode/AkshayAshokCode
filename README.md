@@ -74,6 +74,6 @@ Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness
 
 ### Currently Listening To <img align="center" alt="Headphone" width="40" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
 
-[![Spotify](https://spotify-now-playing-akshayashokcode.vercel.app/api/spotify/?background_color=0d1117&border_color=0d1117)][spotify]
+[![Spotify](https://spotify-now-playing-nine-drab.vercel.app/api/orchestrator?background_color=0d1117&border_color=0d1117)][spotify]
 
 [spotify]: https://open.spotify.com/user/dd7o8yr5pft0b4qvntfk8o1zu
