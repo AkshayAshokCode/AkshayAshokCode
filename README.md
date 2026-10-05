@@ -67,7 +67,7 @@ Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness
 ## GitHub Stats
 
 <a href="https://github.com/AkshayAshokCode/github-readme-stats">
-  <img src="https://github-readme-stats-akshayashokcode.vercel.app//api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=2fbf71&icon_color=1f6fea&text_color=fefefe&border_color=38d252&hide=contribs" alt="AkshayAshokCode"/>
+  <img src="https://github-readme-stats-ea7z-akshayashokcodes-projects.vercel.app/api?username=AkshayAshokCode&theme=gotham&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0d1117&title_color=2fbf71&icon_color=1f6fea&text_color=fefefe&border_color=38d252&hide=contribs" alt="AkshayAshokCode"/>
 </a>
 
 ---
