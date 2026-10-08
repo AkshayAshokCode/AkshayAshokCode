@@ -13,8 +13,8 @@
 | | | |
 |:--|:--|:--|
 | **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **4k+** installs · **150+** countries · **95%** organic |
-| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2322+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · Open VSX |
-| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**463+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** JetBrains IDEs |
+| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2328+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · Open VSX |
+| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**464+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
 
 ---
