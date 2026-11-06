@@ -1,0 +1,39 @@
+name: Update GitHub Stats Card
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Every day at 00:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate stats card
+        run: node .github/scripts/generate-stats.mjs
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/github-stats.svg
+          git diff --cached --quiet && echo "No change" || (
+            git commit -m "Update GitHub stats card" &&
+            git pull --rebase &&
+            git push
+          )
