@@ -1,20 +1,34 @@
-// Generates assets/github-stats.svg from the GitHub GraphQL API.
+// Generates assets/github-stats-{dark,light}.svg from the GitHub GraphQL API.
+// The README picks one via <picture>, matching the viewer's GitHub theme.
 // Run locally:  GH_TOKEN=$(gh auth token) node .github/scripts/generate-stats.mjs
 // The token must belong to the profile owner so private contributions are counted.
 
 import { mkdirSync, writeFileSync } from "node:fs";
+import { join } from "node:path";
 
 const USER = "AkshayAshokCode";
-const OUT = "assets/github-stats.svg";
+const OUT_DIR = process.env.OUT_DIR || "assets";
 const TOKEN = process.env.GH_TOKEN;
 
-const THEME = {
-  bg: "#0d1117",
-  border: "#38d252",
-  title: "#2fbf71",
-  text: "#fefefe",
-  icon: "#1f6fea",
-  ring: "#2fbf71",
+const THEMES = {
+  dark: {
+    bg: "#0d1117",
+    border: "#38d252",
+    title: "#2fbf71",
+    text: "#fefefe",
+    icon: "#1f6fea",
+    iconGlow: "#79c0ff",
+    ring: "#2fbf71",
+  },
+  light: {
+    bg: "#ffffff",
+    border: "#2da44e",
+    title: "#1a7f37",
+    text: "#1f2328",
+    icon: "#0969da",
+    iconGlow: "#54aeff",
+    ring: "#1a7f37",
+  },
 };
 
 if (!TOKEN) {
@@ -176,18 +190,43 @@ const ringCx = 380;
 const ringCy = BODY_Y + ((rows.length - 1) * ROW_H) / 2 + 6;
 const title = `${user.name || USER}'s GitHub Stats`;
 
+// Count-up: SVG text can't be changed by CSS, so we stack one <text> per frame
+// and show each one only for its slice of time. The last frame stays visible.
+const COUNT_FRAMES = 24;
+const COUNT_MS = 1200;
+const easeOut = (t) => 1 - (1 - t) ** 3;
+
+function countUp(value, startMs, x, y) {
+  const frames = [];
+  for (let i = 1; i <= COUNT_FRAMES; i++) {
+    const label = fmt(Math.round(value * easeOut(i / COUNT_FRAMES)));
+    const at = startMs + (i - 1) * (COUNT_MS / COUNT_FRAMES);
+    if (frames.length && frames.at(-1).label === label) continue;
+    frames.push({ label, at });
+  }
+  return frames
+    .map(({ label, at }, i) => {
+      const last = i === frames.length - 1;
+      const dur = last ? 1 : frames[i + 1].at - at;
+      const cls = last ? "num last" : "num";
+      return `<text class="stat ${cls}" x="${x}" y="${y}" style="animation:show ${dur.toFixed(0)}ms linear ${at.toFixed(0)}ms${last ? " forwards" : ""}">${esc(label)}</text>`;
+    })
+    .join("");
+}
+
 const rowSvg = rows
-  .map(
-    ([icon, label, value], i) => `
-    <g class="stagger" style="animation-delay:${450 + i * 150}ms" transform="translate(25, ${BODY_Y + i * ROW_H})">
-      <svg class="icon" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="${ICONS[icon]}"/></svg>
+  .map(([icon, label, value], i) => {
+    const delay = 450 + i * 150;
+    return `
+    <g class="stagger" style="animation-delay:${delay}ms" transform="translate(25, ${BODY_Y + i * ROW_H})">
+      <g class="pop" style="animation-delay:${delay}ms"><svg class="icon" viewBox="0 0 16 16" width="16" height="16" overflow="visible"><path fill-rule="evenodd" d="${ICONS[icon]}"/></svg></g>
       <text class="stat" x="25" y="12.5">${esc(label)}</text>
-      <text class="stat" x="219" y="12.5">${esc(fmt(value))}</text>
-    </g>`,
-  )
+      ${countUp(value, delay + 150, 219, 12.5)}
+    </g>`;
+  })
   .join("");
 
-const svg = `<svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+const render = (THEME) => `<svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HEIGHT}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
   <title id="titleId">${esc(title)}, Rank: ${grade}</title>
   <desc id="descId">Stars: ${stars}, Commits: ${commits}, PRs: ${prs}, Reviews: ${reviews}, Issues: ${issues}</desc>
   <style>
@@ -199,9 +238,23 @@ const svg = `<svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HE
     .rim { stroke: ${THEME.ring}; fill: none; stroke-width: 6; opacity: 0.2; }
     .ring { stroke: ${THEME.ring}; fill: none; stroke-width: 6; stroke-linecap: round; opacity: 0.8;
             stroke-dasharray: ${C.toFixed(2)}; stroke-dashoffset: ${((C * percentile) / 100).toFixed(2)};
-            animation: ring 1s ease-in-out forwards; }
+            animation: ring 1.4s 0.4s cubic-bezier(.4,0,.2,1) backwards; }
+    .grade { transform-box: fill-box; transform-origin: center; animation: popIn 0.5s 1.6s cubic-bezier(.3,1.6,.5,1) backwards; }
+    .pop { transform-box: fill-box; transform-origin: center; animation: popIn 0.4s cubic-bezier(.3,1.6,.5,1) backwards; }
+    .num { opacity: 0; }
+    /* Icon wave: icons light up one after another, looping while the card is on screen. */
+    .icon { overflow: visible; }
+    .icon path { transform-box: fill-box; transform-origin: center; animation: wave 5s ease-in-out infinite; }
+    ${rows.map((_, i) => `.stagger:nth-of-type(${i + 1}) .icon path { animation-delay: ${2.5 + i * 0.25}s; }`).join("\n    ")}
     @keyframes ring { from { stroke-dashoffset: ${C.toFixed(2)}; } }
     @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @keyframes show { from, to { opacity: 1; } }
+    @keyframes popIn { from { transform: scale(0); } }
+    @keyframes wave { 0%, 12%, 100% { transform: scale(1); fill: ${THEME.icon}; } 6% { transform: scale(1.25); fill: ${THEME.iconGlow}; } }
+    @media (prefers-reduced-motion: reduce) {
+      * { animation: none !important; }
+      .stagger, .num.last { opacity: 1; }
+    }
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="${WIDTH - 1}" height="${HEIGHT - 1}" fill="${THEME.bg}" stroke="${THEME.border}"/>
   <text x="25" y="35" class="header">${esc(title)}</text>
@@ -209,13 +262,15 @@ const svg = `<svg width="${WIDTH}" height="${HEIGHT}" viewBox="0 0 ${WIDTH} ${HE
   <g transform="translate(${ringCx}, ${ringCy})">
     <circle class="rim" r="${R}"/>
     <circle class="ring" r="${R}" transform="rotate(-90)"/>
-    <text class="rank-text" text-anchor="middle" dominant-baseline="central">${grade}</text>
+    <text class="rank-text grade" text-anchor="middle" dominant-baseline="central">${grade}</text>
   </g>
 </svg>
 `;
 
-mkdirSync("assets", { recursive: true });
-writeFileSync(OUT, svg);
+mkdirSync(OUT_DIR, { recursive: true });
+for (const [name, theme] of Object.entries(THEMES)) {
+  writeFileSync(join(OUT_DIR, `github-stats-${name}.svg`), render(theme));
+}
 console.log(
-  `Wrote ${OUT}: stars=${stars} commits=${commits} prs=${prs} reviews=${reviews} issues=${issues} followers=${followers} -> ${grade} (top ${percentile.toFixed(1)}%)`,
+  `Wrote ${OUT_DIR}/github-stats-{${Object.keys(THEMES).join(",")}}.svg: stars=${stars} commits=${commits} prs=${prs} reviews=${reviews} issues=${issues} followers=${followers} -> ${grade} (top ${percentile.toFixed(1)}%)`,
 );

@@ -66,7 +66,11 @@ Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness
 
 ## GitHub Stats
 
-<img src="./assets/github-stats.svg" alt="Akshay Ashok's GitHub Stats"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
+  <img src="./assets/github-stats-dark.svg" alt="Akshay Ashok's GitHub Stats"/>
+</picture>
 
 ---
 

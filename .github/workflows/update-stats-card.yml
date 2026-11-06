@@ -31,7 +31,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/github-stats.svg
+          git add assets/
           git diff --cached --quiet && echo "No change" || (
             git commit -m "Update GitHub stats card" &&
             git pull --rebase &&
