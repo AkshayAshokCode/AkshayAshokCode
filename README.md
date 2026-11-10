@@ -12,23 +12,8 @@
 ## Currently Building
 
 <a href="https://akshayashokcode.github.io/gameday/">
-  <img src="./assets/gameday/banner.svg" alt="GameDay — organises your weekly game, so the group chat can go back to banter" width="100%"/>
+  <img src="./assets/gameday/banner.svg" alt="Currently building GameDay — organises your weekly game, so the group chat can go back to banter. See GameDay →" width="100%"/>
 </a>
-
-<p align="center">
-  <img src="./assets/gameday/01-group.jpg" alt="Group screen with a live day poll and the next game" width="24%"/>
-  <img src="./assets/gameday/03-daypoll.jpg" alt="Day poll with candidate days and votes" width="24%"/>
-  <img src="./assets/gameday/05-teams.jpg" alt="Fair teams with captains, keepers and positions" width="24%"/>
-  <img src="./assets/gameday/06-pay.jpg" alt="Pay with UPI and see who has paid" width="24%"/>
-</p>
-
-A **Next.js** web app, a **Kotlin + Jetpack Compose** Android app and a **SwiftUI** iOS app on one shared API and Supabase Postgres, with an OpenAPI contract generated from zod schemas, row-level security, production in Mumbai, and Playwright + UI-automation tests across all three platforms.
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=app.itsgameday.android"><img src="https://img.shields.io/badge/Get%20it%20on-Google%20Play-e8ff47?style=for-the-badge&logo=google-play&logoColor=0a0e0b&labelColor=0a0e0b" alt="Get it on Google Play"/></a>
-  <a href="https://itsgameday.vercel.app"><img src="https://img.shields.io/badge/Try%20it-on%20the%20web-e8ff47?style=for-the-badge&logo=vercel&logoColor=0a0e0b&labelColor=0a0e0b" alt="Try it on the web"/></a>
-  <a href="https://akshayashokcode.github.io/gameday/"><img src="https://img.shields.io/badge/Read-the%20product%20story-e8ff47?style=for-the-badge&labelColor=0a0e0b" alt="Read the product story"/></a>
-</p>
 
 ---
 
