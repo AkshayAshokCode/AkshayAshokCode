@@ -5,6 +5,10 @@ on:
     - cron: '0 6 * * *'  # Every day at 06:00 UTC
   workflow_dispatch:
 
+concurrency:
+  group: readme-updates
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -25,8 +29,17 @@ jobs:
         id: vscode_downloads
         run: |
           COUNT=$(curl -s "https://open-vsx.org/api/akshayashokcode/devfocus" \
-            | python3 -c "import json,sys; print(json.load(sys.stdin)['downloadCount'])")
+            | python3 -c "import json,sys; print(json.load(sys.stdin)['downloadCount'])" || true)
           echo "count=$COUNT" >> $GITHUB_OUTPUT
+
+      - name: Validate counts
+        run: |
+          JB='${{ steps.downloads.outputs.count }}'
+          VS='${{ steps.vscode_downloads.outputs.count }}'
+          if ! [[ "$JB" =~ ^[0-9]+$ ]] || ! [[ "$VS" =~ ^[0-9]+$ ]]; then
+            echo "::error::Invalid download counts (JetBrains='$JB', Open VSX='$VS'); leaving README untouched."
+            exit 1
+          fi
 
       - name: Update README
         run: |
@@ -56,5 +69,6 @@ jobs:
           git diff --quiet && echo "No change" || (
             git add README.md &&
             git commit -m "Update DevFocus downloads to ${{ steps.downloads.outputs.count }}+ (JetBrains) / ${{ steps.vscode_downloads.outputs.count }}+ (VS Code)" &&
+            git pull --rebase &&
             git push
           )

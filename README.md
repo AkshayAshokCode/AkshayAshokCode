@@ -21,23 +21,11 @@
 
 | | | |
 |:--|:--|:--|
-| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **4k+** installs · **150+** countries · **95%** organic |
-| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2704+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · Open VSX |
-| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**494+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** JetBrains IDEs |
-| **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
-
----
-
-## Tech
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
+| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **5k+** installs · **150+** countries · **95%** organic · [Google Play](https://play.google.com/store/apps/details?id=com.akshayAshokCode.androidsensors) |
+| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2704+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · [Open VSX](https://open-vsx.org/extension/akshayashokcode/devfocus) |
+| **[GameDay](https://akshayashokcode.github.io/gameday/)** | Organises your weekly game, so the group chat can go back to banter | [Web](https://itsgameday.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=app.itsgameday.android) · App Store (soon) |
+| **[BackOnline](https://github.com/AkshayAshokCode/BackOnline)** | Get an alert the moment your internet is back | Phone & Android TV · [Google Play](https://play.google.com/store/apps/details?id=com.akshayAshokCode.backonline) |
+| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**494+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** IDEs on [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30114-devfocus) |
 
 ---
 
@@ -51,7 +39,7 @@
 
 **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
-**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A Kotlin reference app for the YouTube Data API v3. 13 features, each a small runnable example you can copy into your own app: search, trending, playlists, comments, captions, resumable video uploads that resume automatically, and the full live-streaming lifecycle with live chat. Split into API-key and OAuth features, with silent token refresh, built with Jetpack Compose, MVVM, Hilt and Retrofit, and unit-tested.
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A ready-made starting point for building YouTube features on Android. **13** working, drop-in examples with the hard parts already solved — so you build your product instead of fighting the API docs.
 
 ---
 
