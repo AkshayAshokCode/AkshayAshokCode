@@ -38,7 +38,7 @@
 
 **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
-**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A Kotlin reference app for the YouTube Data API v3. 13 features, each a small runnable example you can copy into your own app: search, trending, playlists, comments, captions, resumable video uploads that resume automatically, and the full live-streaming lifecycle with live chat. Split into API-key and OAuth features, with silent token refresh, built with Jetpack Compose, MVVM, Hilt and Retrofit, and unit-tested.
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — Turns the YouTube Data API v3 into **13** copy-paste Kotlin examples, so Android devs can skip the docs and ship the hard parts — resumable uploads, OAuth with silent token refresh, and the full live-streaming lifecycle with live chat. Built with Jetpack Compose and unit-tested.
 
 ---
 
