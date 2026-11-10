@@ -9,10 +9,8 @@
 
 ---
 
-## Currently Building
-
 <a href="https://akshayashokcode.github.io/gameday/">
-  <img src="./assets/gameday/banner.svg" alt="Currently building GameDay — organises your weekly game, so the group chat can go back to banter. See GameDay →" width="100%"/>
+  <img src="./assets/gameday/banner.svg" alt="Currently building GameDay — organises your weekly game, so the group chat can go back to banter. Web and Android, iOS soon. See GameDay →" width="100%"/>
 </a>
 
 ---
