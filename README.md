@@ -5,6 +5,15 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@AkshayAshokCode)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/AkshayAshokCode)
 [![Google Play](https://img.shields.io/badge/Google%20Play-01875F?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akshay+Ashok)
+[![Website](https://img.shields.io/badge/Website-121412?style=flat-square&logo=astro&logoColor=e4ff3a)](https://akshayashokcode.github.io)
+
+---
+
+## Currently Building
+
+<a href="https://akshayashokcode.github.io/gameday/">
+  <img src="./assets/gameday/banner.svg" alt="GameDay — organises your weekly game, so the group chat can go back to banter. Web and Android, iOS soon. See GameDay →" width="100%"/>
+</a>
 
 ---
 
@@ -42,7 +51,7 @@
 
 **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
-**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A structured reference for the YouTube API on Android. Covers search, channel info, live chat, live streaming, captions, and OAuth flows — each with example responses.
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A Kotlin reference app for the YouTube Data API v3. 13 features, each a small runnable example you can copy into your own app: search, trending, playlists, comments, captions, resumable video uploads that resume automatically, and the full live-streaming lifecycle with live chat. Split into API-key and OAuth features, with silent token refresh, built with Jetpack Compose, MVVM, Hilt and Retrofit, and unit-tested.
 
 ---
 
