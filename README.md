@@ -21,6 +21,7 @@
 
 | | | |
 |:--|:--|:--|
+| **[GameDay](https://akshayashokcode.github.io/gameday/)** | Organises your weekly game, so the group chat can go back to banter | [Web](https://itsgameday.vercel.app) · [Google Play](https://play.google.com/store/apps/details?id=app.itsgameday.android) · App Store (soon) |
 | **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **4k+** installs · **150+** countries · **95%** organic · [Google Play](https://play.google.com/store/apps/details?id=com.akshayAshokCode.androidsensors) |
 | **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2704+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · [Open VSX](https://open-vsx.org/extension/akshayashokcode/devfocus) |
 | **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**494+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** IDEs on [JetBrains Marketplace](https://plugins.jetbrains.com/plugin/30114-devfocus) |
