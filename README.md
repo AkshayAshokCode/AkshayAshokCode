@@ -38,7 +38,7 @@
 
 **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
 
-**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A ready-made starting point for building YouTube features on Android. Get **13** working features — search, trending, playlists, comments, captions, video uploads, and live streaming with live chat — each a small, self-contained Kotlin example you can drop straight into your app. The painful parts are already solved: OAuth sign-in with silent token refresh, uploads that pick up where they left off after a dropped connection, and the full go-live lifecycle — so you build your product instead of fighting the API docs.
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A ready-made starting point for building YouTube features on Android. **13** working, drop-in examples with the hard parts already solved — so you build your product instead of fighting the API docs.
 
 ---
 
