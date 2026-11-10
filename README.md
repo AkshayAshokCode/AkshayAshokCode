@@ -1,6 +1,5 @@
-### Hi, I'm Akshay 👋
 
-**Senior Mobile Engineer** — building Android and iOS apps, SDKs, and developer tools with **7k+ installs across 150+ countries**.
+**Senior Mobile Engineer** — building Android iOS apps, SDKs, and developer tools used across 150+ countries.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-ashok-code)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@AkshayAshokCode)
@@ -20,49 +19,57 @@
 
 ## Shipped
 
-| Project | What | Traction |
+| | | |
 |:--|:--|:--|
-| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** · [Play Store](https://play.google.com/store/apps/details?id=com.akshayAshokCode.androidsensors) | Professional sensor toolkit for Android | **4k+** installs · **150+** countries · **95%** organic |
-| **DevFocus** · [JetBrains](https://github.com/AkshayAshokCode/DevFocus) · [VS Code / Cursor](https://github.com/AkshayAshokCode/vscode-devfocus) | Focus timer & day planner inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**494+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> (JetBrains) · <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2704+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> (Open VSX) |
+| **[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** | Professional sensor toolkit for Android | **4k+** installs · **150+** countries · **95%** organic |
+| **[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** | Focus timer & day planner for VS Code / Cursor | <!-- VSCODE_DEVFOCUS_DOWNLOADS_START -->**2704+** downloads<!-- VSCODE_DEVFOCUS_DOWNLOADS_END --> · Open VSX |
+| **[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** | Pomodoro timer inside your IDE | <!-- DEVFOCUS_DOWNLOADS_START -->**494+** downloads<!-- DEVFOCUS_DOWNLOADS_END --> · **18** JetBrains IDEs |
 | **[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** | Modular Android media SDK | Published on **Maven Central** |
-| **[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** | Kotlin reference app for the YouTube Data API v3 | **13** runnable features |
-
-**AndroidSensors** — Bubble level, metal detector, gravity meter and more, built with Jetpack Compose. Store-listing experiments lifted Play Store conversion from **22% → 30%**; biggest audiences in the US, India, Mexico and Brazil.
-
-**DevFocus** — One product, two platforms. The JetBrains plugin runs in **18** IDEs with zero external dependencies and ships via automated CI/CD (strongest adoption in Germany). The VS Code edition adds a day plan built for engineers working with AI — sessions, real breaks, and a defensible end to the day — and runs in VS Code, Cursor and other VS Code-API editors.
-
-**MediaKit** — Gallery, camera and crop workflows behind a single fluent API.
-
-**YoutubeAndroid** — Copy-paste examples for search, playlists, captions, resumable uploads and the full live-streaming lifecycle — Compose, MVVM, Hilt, Retrofit, unit-tested.
 
 ---
 
 ## Tech
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![KMP](https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 
 ---
 
-## How I Work
+## Featured
 
-- **Ship small, then let users decide.** Store-listing experiments, not guesses, took AndroidSensors from 22% to 30% conversion.
-- **Sweat the small frustrations.** Most of what makes a product feel good is in the details people never mention — until they're missing.
-- **Own it end to end.** From the API design of an SDK to the CI/CD that publishes it.
+**[AndroidSensors](https://github.com/AkshayAshokCode/AndroidSensors)** — Sensor toolkit on the Play Store. Bubble level, metal detector, gravity meter, and more — built with Jetpack Compose. Improved Play Store conversion rate from **22% → 30%** through store listing experiments. Highest adoption in the US, India, Mexico, and Brazil.
+
+**[DevFocus for VS Code](https://github.com/AkshayAshokCode/vscode-devfocus)** — Focus timer and day plan for engineers working with AI — sessions, real breaks, and a defensible end to the day. Runs in VS Code, Cursor, and other VSCode-API editors, distributed via Open VSX.
+
+**[MediaKit](https://github.com/AkshayAshokCode/MediaKit-android)** — Modular Android media SDK. Gallery, camera, and crop workflows with a single fluent API. Available on Maven Central.
+
+**[DevFocus](https://github.com/AkshayAshokCode/DevFocus)** — Productivity plugin for JetBrains IDEs. Focus modes, circular session tracking, status bar integration, and smart notifications — all without leaving the editor. Zero external dependencies, published via automated CI/CD. Strongest adoption in Germany.
+
+**[YoutubeAndroid](https://github.com/AkshayAshokCode/YoutubeAndroid)** — A Kotlin reference app for the YouTube Data API v3. 13 features, each a small runnable example you can copy into your own app: search, trending, playlists, comments, captions, resumable video uploads that resume automatically, and the full live-streaming lifecycle with live chat. Split into API-key and OAuth features, with silent token refresh, built with Jetpack Compose, MVVM, Hilt and Retrofit, and unit-tested.
 
 ---
 
-## Let's Talk
+## Engineering Philosophy
 
-Open to senior mobile roles and collaborations on developer tools — reach out on [LinkedIn](https://linkedin.com/in/akshay-ashok-code).
+I enjoy learning, building, and understanding how things work beneath the surface.
 
-**Off the keyboard:** Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness 💪
+I'm naturally curious about systems, workflows, and user behavior — especially how people interact with products, what they expect while using them, and the small frustrations they experience along the way.
+
+I enjoy solving problems, taking ownership, and continuously improving products through thoughtful details, performance, usability, and real user feedback.
+
+For me, engineering is a constant process of curiosity, experimentation, problem-solving, and growth.
+
+---
+
+## Beyond Engineering
+
+Football ⚽ · [Chess](https://www.chess.com/member/akshayashokcode) · Fitness 💪
 
 ---
 
@@ -73,3 +80,15 @@ Open to senior mobile roles and collaborations on developer tools — reach out 
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-stats-light.svg">
   <img src="./assets/github-stats-dark.svg" alt="Akshay Ashok's GitHub Stats"/>
 </picture>
+
+---
+
+### Currently Listening To <img align="center" alt="Headphone" width="40" src="https://media.giphy.com/media/6vIxndGbXhng34GgYE/giphy.gif" />
+
+<a href="https://open.spotify.com/user/dd7o8yr5pft0b4qvntfk8o1zu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://spotify-now-playing-nine-drab.vercel.app/api/orchestrator?background_color=0d1117&border_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://spotify-now-playing-nine-drab.vercel.app/api/orchestrator?background_color=ffffff&border_color=ffffff">
+    <img src="https://spotify-now-playing-nine-drab.vercel.app/api/orchestrator?background_color=0d1117&border_color=0d1117" width="540" alt="Spotify"/>
+  </picture>
+</a>
